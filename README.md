@@ -87,8 +87,6 @@ Esse exemplo cobre todos os tokens e palavras-chave da linguagem: CRIAR, TELA, A
 - **Posso mudar as cores ou o layout?**
   - Edite o CSS gerado em `parser.py` conforme desejar.
 
-  `x` (utilizado para separar dimensões, como em `800x600`)
-
 ## 🚀 Como Executar
 
 1. Certifique-se de ter o Python 3 instalado.
